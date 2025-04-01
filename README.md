@@ -31,15 +31,15 @@ This Python-based application allows users to convert YouTube and Instagram vide
    git clone https://github.com/yourusername/youtube-instagram-mp3.git
    cd youtube-instagram-mp3
 
-💡 Use Cases
+##💡 Use Cases
 Podcast Extraction – Convert YouTube interviews or discussions into MP3 for offline listening.
 
 Music Conversion – Save music videos as audio files.
 
 Educational Purposes – Convert lecture videos into MP3 for learning on the go.
 
-📜 License
+##📜 License
 This project is licensed under the MIT License – see the LICENSE file for details.
 
-🤝 Contributing
+##🤝 Contributing
 Contributions are welcome! Feel free to open an issue or submit a pull request.
