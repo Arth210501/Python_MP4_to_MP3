@@ -28,5 +28,5 @@ This Python-based application allows users to convert YouTube and Instagram vide
 ## 📦 Installation  
 1. **Clone the repository**  
    ```sh
-   git clone https://github.com/Arth210501/Python_MP4_to_MP3.git
-   cd Python_MP4_to_MP3
+   git clone https://github.com/Arth210501/Python_Youtube_Instagram_Link_to_MP3.git
+   cd Python_Youtube_Instagram_Link_to_MP3
